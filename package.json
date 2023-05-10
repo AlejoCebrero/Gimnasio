@@ -19,14 +19,14 @@
   },
   "homepage": "https://github.com/rodrigoalejandrorios/api-nodejs-typescript#readme",
   "dependencies": {
-    "class-validator": "^0.13.2",
+    "class-validator": "^0.14.0",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.3",
     "express": "^4.17.3",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
-    "typeorm": "^0.2.45",
-    "typeorm-naming-strategies": "^3.0.0"
+    "typeorm": "^0.3.16",
+    "typeorm-naming-strategies": "^4.1.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
